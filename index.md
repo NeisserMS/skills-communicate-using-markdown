@@ -7,3 +7,13 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+var nombre = "Juan";
+function saludar() {
+  console.log("Hola, " + nombre + "!");
+}
+saludar();
+```
+
+
+
