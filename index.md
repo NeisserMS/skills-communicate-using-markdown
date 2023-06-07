@@ -20,6 +20,7 @@ EnviarSaludo();
 - [ ] Escribir el código
 - [ ] Compilar
 - [ ] Comprobar resultados
+- [ ] Desplegar
 
 
 
