@@ -16,5 +16,10 @@ function EnviarSaludo() {
 EnviarSaludo();
 ```
 
+- [ ] Pensar en la solución
+- [ ] Escribir el código
+- [ ] Compilar
+- [ ] Comprobar resultados
+
 
 
