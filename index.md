@@ -9,10 +9,11 @@
 
 ```
 var nombre = "Juan";
-function saludar() {
+function EnviarSaludo() {
   console.log("Hola, " + nombre + "!");
 }
-saludar();
+
+EnviarSaludo();
 ```
 
 
